@@ -1,7 +1,6 @@
 # Complete Chatting App with MERN Stack | JWT, Socket.io, MongoDB 
-[Live Link]https://huuu-chat-app.onrender.com/)
+[Live Link](https://huuu-chat-app.onrender.com/)
 
-(Live Link)[https://huuu-chat-app.onrender.com/]
 ## Here are some preview
 ---
 ![Screenshot 2024-07-31 233621](https://github.com/user-attachments/assets/bdd094ce-2110-4829-a3d8-8a7cb605b4a8)
